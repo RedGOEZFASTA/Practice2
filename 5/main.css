@@ -1,0 +1,14 @@
+div {
+    margin: 50px auto;
+    width: 175px;
+
+}
+
+button {
+    width: 175px;
+    font-size: 21px;
+    padding: 8px;
+    border-radius: 25px;
+    background: linear-gradient(0deg, #FFB3D6 0%, #FFD8EA 45%, #FFD8EA 55%, #FFB3D6 100%);
+    border: double white;
+}
